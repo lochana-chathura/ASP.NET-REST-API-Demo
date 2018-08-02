@@ -1,0 +1,17 @@
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\SOS.DataAccess.dll.config
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\SOS.DataAccess.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\SOS.DataAccess.pdb
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.csprojAssemblyReference.cache
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.csproj.CopyComplete
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.pdb
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.Migrations.InitialMigration.resources
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\obj\Debug\SOS.DataAccess.csproj.GenerateResource.cache
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\System.Web.Cors.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.DataAccess\bin\Debug\Newtonsoft.Json.xml

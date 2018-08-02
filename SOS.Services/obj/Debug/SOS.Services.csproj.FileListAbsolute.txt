@@ -1,0 +1,11 @@
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\bin\Debug\SOS.Services.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\bin\Debug\SOS.Services.pdb
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\obj\Debug\SOS.Services.csprojAssemblyReference.cache
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\obj\Debug\SOS.Services.csproj.CoreCompileInputs.cache
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\obj\Debug\SOS.Services.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\obj\Debug\SOS.Services.pdb
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\bin\Debug\SOS.DataAccess.dll
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\bin\Debug\SOS.DataAccess.pdb
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\bin\Debug\SOS.DataAccess.dll.config
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\bin\Debug\EntityFramework.xml
+C:\Users\lochanaj\source\repos\SOS\SOS.Services\obj\Debug\SOS.Services.csproj.CopyComplete
